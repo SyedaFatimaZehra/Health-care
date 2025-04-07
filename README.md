@@ -2,9 +2,9 @@
 
 ## Project Description
 **Health Care** is a web-based application designed to help patients book online appointments with doctors. Patients can sign up/login to the platform and choose their preferred doctor for consultation.
-![Home Page Screenshot](pic1.png)
-![Additional Screenshot](pic2.png)
-![Another Screenshot](pic3.png)
+![Home Page Screenshot](pic1.PNG)
+![Additional Screenshot](pic2.PNG)
+![Another Screenshot](pic3.PNG)
 
 ### Key Features:
 - **Patient Sign Up/Login**: Patients can create an account and securely log in to their profiles.
